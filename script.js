@@ -15,7 +15,7 @@ class Simon {
             startButton,
             round
         }
-        this.errorSound = new Audio('./sounds/error.wav');
+        this.errorSound = new Audio('./Sonidos/error.mp3');
         this.buttonSounds = [
             new Audio('./Sonidos/1.mp3'),
             new Audio('./Sonidos/2.mp3'),
